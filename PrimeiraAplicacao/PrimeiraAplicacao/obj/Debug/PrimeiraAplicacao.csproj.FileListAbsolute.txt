@@ -1,0 +1,10 @@
+C:\Users\igorl\Documents\workspace\csharp\PrimeiraAplicacao\PrimeiraAplicacao\bin\Debug\PrimeiraAplicacao.exe.config
+C:\Users\igorl\Documents\workspace\csharp\PrimeiraAplicacao\PrimeiraAplicacao\bin\Debug\PrimeiraAplicacao.exe
+C:\Users\igorl\Documents\workspace\csharp\PrimeiraAplicacao\PrimeiraAplicacao\bin\Debug\PrimeiraAplicacao.pdb
+C:\Users\igorl\Documents\workspace\csharp\PrimeiraAplicacao\PrimeiraAplicacao\obj\Debug\PrimeiraAplicacao.csprojAssemblyReference.cache
+C:\Users\igorl\Documents\workspace\csharp\PrimeiraAplicacao\PrimeiraAplicacao\obj\Debug\PrimeiraAplicacao.Form1.resources
+C:\Users\igorl\Documents\workspace\csharp\PrimeiraAplicacao\PrimeiraAplicacao\obj\Debug\PrimeiraAplicacao.Properties.Resources.resources
+C:\Users\igorl\Documents\workspace\csharp\PrimeiraAplicacao\PrimeiraAplicacao\obj\Debug\PrimeiraAplicacao.csproj.GenerateResource.cache
+C:\Users\igorl\Documents\workspace\csharp\PrimeiraAplicacao\PrimeiraAplicacao\obj\Debug\PrimeiraAplicacao.csproj.CoreCompileInputs.cache
+C:\Users\igorl\Documents\workspace\csharp\PrimeiraAplicacao\PrimeiraAplicacao\obj\Debug\PrimeiraAplicacao.exe
+C:\Users\igorl\Documents\workspace\csharp\PrimeiraAplicacao\PrimeiraAplicacao\obj\Debug\PrimeiraAplicacao.pdb

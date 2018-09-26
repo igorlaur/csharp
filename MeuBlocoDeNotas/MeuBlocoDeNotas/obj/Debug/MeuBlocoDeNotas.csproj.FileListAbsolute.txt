@@ -1,0 +1,10 @@
+C:\Users\igorl\Documents\workspace\c#\MeuBlocoDeNotas\MeuBlocoDeNotas\bin\Debug\MeuBlocoDeNotas.exe.config
+C:\Users\igorl\Documents\workspace\c#\MeuBlocoDeNotas\MeuBlocoDeNotas\bin\Debug\MeuBlocoDeNotas.exe
+C:\Users\igorl\Documents\workspace\c#\MeuBlocoDeNotas\MeuBlocoDeNotas\bin\Debug\MeuBlocoDeNotas.pdb
+C:\Users\igorl\Documents\workspace\c#\MeuBlocoDeNotas\MeuBlocoDeNotas\obj\Debug\MeuBlocoDeNotas.csprojAssemblyReference.cache
+C:\Users\igorl\Documents\workspace\c#\MeuBlocoDeNotas\MeuBlocoDeNotas\obj\Debug\MeuBlocoDeNotas.Inicio.resources
+C:\Users\igorl\Documents\workspace\c#\MeuBlocoDeNotas\MeuBlocoDeNotas\obj\Debug\MeuBlocoDeNotas.Properties.Resources.resources
+C:\Users\igorl\Documents\workspace\c#\MeuBlocoDeNotas\MeuBlocoDeNotas\obj\Debug\MeuBlocoDeNotas.csproj.GenerateResource.cache
+C:\Users\igorl\Documents\workspace\c#\MeuBlocoDeNotas\MeuBlocoDeNotas\obj\Debug\MeuBlocoDeNotas.csproj.CoreCompileInputs.cache
+C:\Users\igorl\Documents\workspace\c#\MeuBlocoDeNotas\MeuBlocoDeNotas\obj\Debug\MeuBlocoDeNotas.exe
+C:\Users\igorl\Documents\workspace\c#\MeuBlocoDeNotas\MeuBlocoDeNotas\obj\Debug\MeuBlocoDeNotas.pdb
