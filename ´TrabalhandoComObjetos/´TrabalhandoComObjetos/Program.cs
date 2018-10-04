@@ -10,7 +10,7 @@ namespace _TrabalhandoComObjetos
     {
         static void Main(string[] args)
         {
-            String entrada = "";
+            String entrada = ""; // Entrada de dados
             Pessoal pessoa1;
             Carro carro1;
             pessoa1 = new Pessoal();
